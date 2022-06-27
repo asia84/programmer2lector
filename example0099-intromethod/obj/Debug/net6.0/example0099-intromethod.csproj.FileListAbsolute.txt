@@ -1,0 +1,15 @@
+E:\Программирование\lesson2lecture(programming)\example0099-intromethod\bin\Debug\net6.0\example0099-intromethod.exe
+E:\Программирование\lesson2lecture(programming)\example0099-intromethod\bin\Debug\net6.0\example0099-intromethod.deps.json
+E:\Программирование\lesson2lecture(programming)\example0099-intromethod\bin\Debug\net6.0\example0099-intromethod.runtimeconfig.json
+E:\Программирование\lesson2lecture(programming)\example0099-intromethod\bin\Debug\net6.0\example0099-intromethod.dll
+E:\Программирование\lesson2lecture(programming)\example0099-intromethod\bin\Debug\net6.0\example0099-intromethod.pdb
+E:\Программирование\lesson2lecture(programming)\example0099-intromethod\obj\Debug\net6.0\example0099-intromethod.csproj.AssemblyReference.cache
+E:\Программирование\lesson2lecture(programming)\example0099-intromethod\obj\Debug\net6.0\example0099-intromethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Программирование\lesson2lecture(programming)\example0099-intromethod\obj\Debug\net6.0\example0099-intromethod.AssemblyInfoInputs.cache
+E:\Программирование\lesson2lecture(programming)\example0099-intromethod\obj\Debug\net6.0\example0099-intromethod.AssemblyInfo.cs
+E:\Программирование\lesson2lecture(programming)\example0099-intromethod\obj\Debug\net6.0\example0099-intromethod.csproj.CoreCompileInputs.cache
+E:\Программирование\lesson2lecture(programming)\example0099-intromethod\obj\Debug\net6.0\example0099-intromethod.dll
+E:\Программирование\lesson2lecture(programming)\example0099-intromethod\obj\Debug\net6.0\refint\example0099-intromethod.dll
+E:\Программирование\lesson2lecture(programming)\example0099-intromethod\obj\Debug\net6.0\example0099-intromethod.pdb
+E:\Программирование\lesson2lecture(programming)\example0099-intromethod\obj\Debug\net6.0\example0099-intromethod.genruntimeconfig.cache
+E:\Программирование\lesson2lecture(programming)\example0099-intromethod\obj\Debug\net6.0\ref\example0099-intromethod.dll
