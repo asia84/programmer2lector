@@ -4,7 +4,7 @@
     if(arg2> result) result = arg2;               //тело метода              
     if(arg3> result) result = arg3; 
     return result;  
-
+                                                //кусок кода для поиска максимума из трех
 }
 
 //              0   1   2   3   4   5   6   7   8
