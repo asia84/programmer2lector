@@ -1,0 +1,15 @@
+E:\Программирование\lesson2lecture(programming)\урок11\bin\Debug\net6.0\урок11.exe
+E:\Программирование\lesson2lecture(programming)\урок11\bin\Debug\net6.0\урок11.deps.json
+E:\Программирование\lesson2lecture(programming)\урок11\bin\Debug\net6.0\урок11.runtimeconfig.json
+E:\Программирование\lesson2lecture(programming)\урок11\bin\Debug\net6.0\урок11.dll
+E:\Программирование\lesson2lecture(programming)\урок11\bin\Debug\net6.0\урок11.pdb
+E:\Программирование\lesson2lecture(programming)\урок11\obj\Debug\net6.0\урок11.csproj.AssemblyReference.cache
+E:\Программирование\lesson2lecture(programming)\урок11\obj\Debug\net6.0\урок11.GeneratedMSBuildEditorConfig.editorconfig
+E:\Программирование\lesson2lecture(programming)\урок11\obj\Debug\net6.0\урок11.AssemblyInfoInputs.cache
+E:\Программирование\lesson2lecture(programming)\урок11\obj\Debug\net6.0\урок11.AssemblyInfo.cs
+E:\Программирование\lesson2lecture(programming)\урок11\obj\Debug\net6.0\урок11.csproj.CoreCompileInputs.cache
+E:\Программирование\lesson2lecture(programming)\урок11\obj\Debug\net6.0\урок11.dll
+E:\Программирование\lesson2lecture(programming)\урок11\obj\Debug\net6.0\refint\урок11.dll
+E:\Программирование\lesson2lecture(programming)\урок11\obj\Debug\net6.0\урок11.pdb
+E:\Программирование\lesson2lecture(programming)\урок11\obj\Debug\net6.0\урок11.genruntimeconfig.cache
+E:\Программирование\lesson2lecture(programming)\урок11\obj\Debug\net6.0\ref\урок11.dll
